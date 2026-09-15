@@ -5,7 +5,7 @@
 We are inviting universities and instructors to participate in a replication of:
 
 > Maisch et al., *Criminal Minds: How First-Year CS Students Plagiarize Code*, FSE Companion 2026.
-> DOI: 10.1145/3803437.3805789
+> DOI: [10.1145/3803437.3805789](https://doi.org/10.1145/3803437.3805789)
 
 The original study was conducted at KIT and KTH and investigated how first-year computer science students modify existing programming solutions while attempting to produce a functionally correct submission that is difficult to recognize as derived from the original.
 
@@ -69,19 +69,16 @@ The replication distinguishes between:
 * local ethics procedures;
 * technical infrastructure, where necessary.
 
-See [`STUDY.md`](STUDY.md) and [`docs/local-adaptation.md`](docs/local-adaptation.md).
+See [`STUDY.md`](STUDY.md).
 
 ## Where should I start?
 
 If you are considering participating, start with:
 
 **1. Read [`STUDY.md`](STUDY.md)**
-A ~5-minute overview of the study design.
+A brief overview of the study design.
 
-**2. Read [`GETTING_STARTED.md`](GETTING_STARTED.md)**
-What a participating institution needs to prepare.
-
-**3. Contact the replication team**
+**2. Contact the replication team**
 We will discuss your local setting, answer questions, and agree on the replication plan before you begin recruitment.
 
 ## Current status
